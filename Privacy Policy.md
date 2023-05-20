@@ -5,8 +5,6 @@ Ew Ci Ye? Privacy Policy
 This Privacy Policy is part of the Noushinsoft Terms of Service (“Terms of Service”). "Noushinsoft" and "we" refers to Noushinsoft Data Technology and Software Trading Limited Company. This Privacy Policy explains our online and offline practices regarding the data, the types of the data that we collect, our intention to use, store, protect, disclose and share this data, how you can waive your consent for this data to be used in a certain way, and the way you can correct this data or change it.
 
 # 2.Extent
-Noushinsoft's websites (each referred to as the "Site"), mobile applications, forums, blogs, other online or offline services it offers (as well as all services currently or future services offered by or on behalf of Noushinsoft, online or offline are referred as (“Services”) the Personal Data Processed in the workflow, including "Services", is subject to this Privacy Policy. Any person who is responsible of processing Confidential Data on behalf of Noushinsoft is expected to protect data by complying with this Privacy Policy. This Privacy Policy is intended to cover terms in Turkey, North America, Europe and Asia-Pacific countries, other countries and also, worldwide terms.
-If you dissent or refuse this Privacy Policy or the Terms of Service, we recommend you that do not install or use the Services.
 We would like to indicate that Noushinsoft is not responsible for the actions of third parties, the content of websites, the data you provide to such third parties or the use of services provided by third parties.
 Noushinsoft reserves the right to change/update this Privacy Policy and if you continue to use the Services, it will amount to your acknowledgment of the changes/updates made in this Privacy Policy.
 
